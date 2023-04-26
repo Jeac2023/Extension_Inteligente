@@ -1,2 +1,2 @@
 # Extension_Inteligente
-Mi primero Proyecto Domótica
+Mi primer Proyecto Domótica
